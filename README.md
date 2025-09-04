@@ -3,7 +3,7 @@ MULTI MENU
 
 <img src="EMS.png">
 
-This is a python script to create multi rom menus for game boy USB EMS carts (32 or 64M). (These carts included a win32 software which no longer works on modern systems).
+This is a python script to create multi rom menus for game boy "USB EMS card" (32 or 64M). (These cartridges included a win32 software which no longer works on modern systems).
 
 I used this repository to create a python port: https://github.com/Raphael-Boichot/GB-SMART-multiboot-rom-manager/tree/main.
 
